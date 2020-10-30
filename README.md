@@ -20,4 +20,8 @@
 
 ## T-Tests on Suspension Coils
 
-- Since our P-value is above the standard .05 we do not have enough evidence to reject our null hypothesis.
+- Since our P-value is above the standard .05 we do not have enough evidence to reject our null hypothesis. The two means are statistically similar.
+
+## Study Design: MechaCar vs Competition
+
+-
