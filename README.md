@@ -18,3 +18,6 @@
 
   All lots meet the current design because the variance for each lot does not go above or below 75.
 
+## T-Tests on Suspension Coils
+
+- Since our P-value is above the standard .05 we do not have enough evidence to reject our null hypothesis.
