@@ -24,13 +24,13 @@
 
 ## Across all lots:
 <img width="783" alt="mean" src="https://user-images.githubusercontent.com/67278193/97783696-e0193400-1b6f-11eb-8094-8085319523ff.png">
-## Lot 1
+## Lot 1:
 <img width="729" alt="lot1" src="https://user-images.githubusercontent.com/67278193/97783701-e27b8e00-1b6f-11eb-9d04-ab42a6e65b2e.png">
-## Lot 2
+## Lot 2:
 <img width="793" alt="lot2" src="https://user-images.githubusercontent.com/67278193/97783703-e4dde800-1b6f-11eb-935a-4d575af8f73f.png">
-## Lot 3
+## Lot 3:
 <img width="729" alt="lot3" src="https://user-images.githubusercontent.com/67278193/97783711-e9a29c00-1b6f-11eb-998a-a41d2beedbe7.png">
 
 ## Study Design: MechaCar vs Competition
 
-- 
+- One feature that people are interested in when buying a car is how much horsepower the car has. I think horsepower, mpg and how large the engine is are 3 factors that go into consumer decision making. We can use our tests to see if our MechaCar is much different from the competiton. We can make a null hypothesis stating that it is not different from the competition and our Alternative would be the opposite. To do this we will need to use our t-test after collecting data from different types of competitor vehicles. Our t-test will be comparing the population of all types of competitor vehicles.
